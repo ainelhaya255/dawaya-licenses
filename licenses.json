@@ -4,6 +4,11 @@
       "active": true,
       "paidUntil": "2026-12-31",
       "message": ""
+    },
+    "badawy": {
+      "active": true,
+      "paidUntil": "2026-12-13",
+      "message": ""
     }
   }
 }
